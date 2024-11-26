@@ -1,11 +1,12 @@
 // hello
 import express from "express";
+import bodyParser from "body-parser";
 
 // Part 2
 const app = express();
 
 // Part 3
-app.use(bodyParser.json());
+// app.use(bodyParser.json());
 
 // Part 4
 app.get("/", (req, res) => {

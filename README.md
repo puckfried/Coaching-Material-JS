@@ -1,5 +1,18 @@
-# Material JS Coaching Session
+# **JavaScript Coaching Archive**
 
-## Content
-1. [Cheatsheets](https://github.com/puckfried/coaching-js/tree/main/exercises)
-2. Exercises
+Click on the links to navigate to the respective sections.
+
+## **Basics 🚀**
+- [JavaScript Primitives](./basics/Primitives.md)
+- [Functions Overview](./basics/Functions.md)
+- [Arrays](./basics/Arrays.md)
+- [Objects](./basics/Objects.md)
+
+## **Backend 🛠️**
+- No content available yet.
+
+## **Frontend 🌐**
+- No content available yet.
+
+## **Exercises 🧩**
+- No content available yet.

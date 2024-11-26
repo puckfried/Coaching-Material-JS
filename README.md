@@ -9,7 +9,8 @@ Click on the links to navigate to the respective sections.
 - [Objects](./basics/Objects.md)
 
 ## **Backend 🛠️**
-- No content available yet.
+- [Simple Server wih explanation](./backend/1-Simple_Node_Server.md)
+- [Folder Structure example](./backend/2-Folder-Project-Structure.md)
 
 ## **Frontend 🌐**
 - No content available yet.

@@ -6,7 +6,7 @@ import bodyParser from "body-parser";
 const app = express();
 
 // Part 3
-// app.use(bodyParser.json());
+app.use(bodyParser.json());
 
 // Part 4
 app.get("/", (req, res) => {

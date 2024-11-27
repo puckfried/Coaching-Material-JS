@@ -16,6 +16,6 @@ Click on the links to navigate to the respective sections.
 - No content available yet.
 
 ## **Exercises 🧩**
-- [datatypes and DOM](./exercises/datatypes&DOM/README.md)
-- [Basic Tasks - Arrays and Srings](./exercises/basicTasks/README.md)
-- [explain a simple server](./exercises/explainServer/README.md)
+- [3 exercises about primitives and DOM manipulation](./exercises/datatypes&DOM)
+- [10 basic tasks about Arrays and Srings](./exercises/basicTasks)
+- [Explain a simple server](./exercises/explainServer)

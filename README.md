@@ -16,4 +16,6 @@ Click on the links to navigate to the respective sections.
 - No content available yet.
 
 ## **Exercises 🧩**
-- No content available yet.
+- [datatypes and DOM](./exercises/datatypes&DOM/README.md)
+- [Basic Tasks - Arrays and Srings](./exercises/basicTasks/README.md)
+- [explain a simple server](./exercises/explainServer/README.md)

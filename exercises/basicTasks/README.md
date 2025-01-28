@@ -24,6 +24,8 @@ This file contains five tasks focused on working with arrays in JavaScript. The 
 - Counting occurrences of a specific element.
 - Removing duplicates from an array.
 
+### 3. `arraysPt2.js`
+This file contains five additional tasks.
 ---
 
 ## How to Use
